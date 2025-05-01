@@ -15,13 +15,16 @@ Finally, we iterated the morning discussion with Jan. We were both sceptical whe
 We will test this with the eye tracker.
 
 We set the following TODOs:
-- Seb contacts Luca as pilot participant
-- Seb sends email to Tyler
-- Seb checks visual angle on screen in original Muckli study
+- ~~Seb contacts Luca as pilot participant~~
+- ~~Seb sends email to Tyler~~
+- ~~Seb checks visual angle on screen in original Muckli study~~
+  - In Smith & Muckli 2010 The entire stimulus spanned 22.5 × 18° of visual angle
+  - occluded region spanned 11 × 9° of visual angle
+  - 20 % smaller in Muckli 2015 (so 17.6 × 14.4 ° of visual angle) 
 - Ale schedules practical session with Jan about eyetracker and prf mapping
 - Ale and Seb check eye tracker hardware in Maastricht and Leipzig
 - Ale imports protocol on 7T (maybe requires new sequence version install)
-- Seb asks Rainer about potential complications with respect to screen size
+- Seb asks Rainer about potential complications with respect to screen size (06.05.2025)
 
 ## Meeting Jan & Ale & Seb 30.04.2025 morning
 We discussed retinotopic mapping approaches and how to best collect the data. Briefly:
