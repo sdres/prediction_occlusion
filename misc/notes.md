@@ -23,7 +23,7 @@ We set the following TODOs:
   - 20 % smaller in Muckli 2015 (so 17.6 × 14.4 ° of visual angle) 
 - Ale schedules practical session with Jan about eyetracker and prf mapping
 - Ale and Seb check eye tracker hardware in Maastricht and Leipzig
-- Ale imports protocol on 7T (maybe requires new sequence version install)
+- ~~Ale imports protocol on 7T (maybe requires new sequence version install)~~
 - Seb asks Rainer about potential complications with respect to screen size (06.05.2025)
 
 ## Meeting Jan & Ale & Seb 30.04.2025 morning
